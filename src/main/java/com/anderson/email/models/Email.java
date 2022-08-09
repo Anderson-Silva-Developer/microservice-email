@@ -1,5 +1,7 @@
 package com.anderson.email.models;
 
+import com.anderson.email.enums.StatusEmail;
+
 import javax.persistence.*;
 import java.io.Serializable;
 import java.time.LocalDateTime;
